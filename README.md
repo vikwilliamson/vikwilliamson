@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------
 
-I am a frontend developer that loves React and its eclectic ecosystem. 😍
+I am a web developer that loves React and its eclectic ecosystem. 😍
 
 * 🌍  I'm based in Washington State, USA
 * 🖥️  See my portfolio at [this site](http://vikwilliamson.github.io/)
